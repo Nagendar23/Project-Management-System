@@ -17,6 +17,10 @@ A simple full-stack **Project Management System** that lets users create project
 * TypeScript
 * Tailwind CSS
 
+## API COLLECTION
+Postman Collection:
+https://wribate.postman.co/workspace/Wribate-Workspace~b50a0fd8-dbba-43e2-8b86-1be9aa67f58a/collection/39504711-54fc7551-2f9b-4140-a846-f45cc72f2c7f?action=share&creator=39504711&live=hr3dlj4k3l
+
 ---
 
 # Features
